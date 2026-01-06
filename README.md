@@ -1,5 +1,5 @@
-# If you’re looking for potential candidates with any of the below abilities, 𝘱𝘭𝘦𝘢𝘴𝘦 𝘤𝘰𝘯𝘴𝘪𝘥𝘦𝘳 𝘮𝘦 𝘢𝘴 𝘰𝘯𝘦.
-Hello, I'm Kiran Gandluri 👋  
+# Hello, I'm Kiran Gandluri  
+If you’re looking for potential candidates with any of the below abilities, 𝘱𝘭𝘦𝘢𝘴𝘦 𝘤𝘰𝘯𝘴𝘪𝘥𝘦𝘳 𝘮𝘦 𝘢𝘴 𝘰𝘯𝘦. 
 
 AI/ML engineer and software engineer focused on agentic AI, with ~5 years of experience shipping production-grade ML and Generative AI systems across healthcare, insurance, and IT consulting, with a strong track record of turning research ideas into robust products on AWS.
 
