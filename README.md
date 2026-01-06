@@ -19,7 +19,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## ✅ Generative AI / LLM / NLP Engineer  
+##  Generative AI / LLM / NLP Engineer  
 
 - AIML Engineer (SME) with ~5 years of experience designing and shipping enterprise ML + GenAI solutions across healthcare, insurance, and IT consulting, including AWS-native implementations with SageMaker, Bedrock, and LangChain.  
 - Built and productionized NLP workflows (summarization, clustering, semantic similarity, sentiment) using PyTorch, and operationalized them with Docker, Kubernetes, and CI/CD in compliance-heavy environments.  
@@ -29,7 +29,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## ✅ Applied ML / Data Science / Analytics  
+##  Applied ML / Data Science / Analytics  
 
 - Delivered measurable outcomes such as reducing churn with XGBoost-based models, improving feedback analysis efficiency with NLP sentiment systems, and boosting model performance with CNN/RNN architectures.  
 - Worked with large-scale healthcare datasets (50,000+ claims/records) to support claims anomaly/fraud detection, utilization risk modeling, and patient segmentation workflows.  
@@ -37,7 +37,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## ✅ Research + Product Builder  
+##  Research + Product Builder  
 
 - At UMass Lowell, helped build a patient education platform (Flask + PostgreSQL) and applied multi-agent LLM + alignment concepts to reduce annotation cycle time by ~30%.  
 - EMNLP 2025 author with experience translating research ideas into practical, testable systems and integrating them into existing products.  
@@ -45,7 +45,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## ✅ Leadership / Collaboration  
+##  Leadership / Collaboration  
 
 - Experience working in Agile/Scrum teams, collaborating with product, data, platform, and security stakeholders.  
 - Mentored engineers and interns on MLOps, secure deployments, and delivery best practices, including CI/CD, observability, and incident response patterns.  
@@ -53,7 +53,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## 🚀 What I'm focusing on now  
+##  What I'm focusing on now  
 
 - Building **agentic AI** systems that chain tools, reasoning steps, and retrieval to automate complex workflows end-to-end.  
 - Hardening GenAI systems for production (guardrails, evaluation frameworks, observability, and safety in regulated environments).  
@@ -61,7 +61,7 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 
 ---
 
-## 🧰 Technology Stack  
+## Technology Stack  
 
 - **GenAI / Cloud:** AWS SageMaker, AWS Bedrock, LangChain, Redshift  
 - **Languages:** Python, SQL, Java, JavaScript/TypeScript  
@@ -89,4 +89,4 @@ If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** r
 - 💻 GitHub: **https://github.com/kirann05**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/kiran-gandluri-31670327b/**  
 
-If your team is hiring for **AI/ML Engineer** or **Software Engineer (Agentic AI)** and you need someone who can design architectures, write clean production code, and ship GenAI features end-to-end, let's talk.
+If your team is hiring for **AI/ML Engineer** or **Software Engineer (Agentic AI)** and you need someone who can design architectures, write clean production code, and ship GenAI features end-to-end, let's connect.
