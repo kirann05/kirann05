@@ -1,5 +1,9 @@
-# Hello, I'm Kiran Gandluri  
-If you’re looking for potential candidates with any of the below abilities, 𝘱𝘭𝘦𝘢𝘴𝘦 𝘤𝘰𝘯𝘴𝘪𝘥𝘦𝘳 𝘮𝘦 𝘢𝘴 𝘰𝘯𝘦. 
+
+<h1 align="center">Kiran Gandluri</h1>
+<p align="center">
+  If you’re looking for potential candidates with any of the below abilities, <em>please consider me as one.</em>
+</p>
+
 
 AI/ML engineer and software engineer focused on agentic AI, with ~5 years of experience shipping production-grade ML and Generative AI systems across healthcare, insurance, and IT consulting, with a strong track record of turning research ideas into robust products on AWS.
 
@@ -7,7 +11,7 @@ AI/ML engineer and software engineer focused on agentic AI, with ~5 years of exp
 
 An **AI/ML engineer** with a focus on LLMs, NLP, and MLOps, I specialize in building end-to-end intelligent systems—from data pipelines and model training to deployment, monitoring, and continuous optimization in production. Drawing on experience across healthcare, claims analytics, and enterprise IT, I design solutions that are not only technically strong but also compliant, reliable, and directly tied to business outcomes.  
 
-My recent work centers on agentic AI and multi-agent LLM workflows, using tools like AWS SageMaker, Bedrock, and LangChain to build retrieval-augmented systems, evaluators, and autonomous agents that can analyze documents, reason over complex workflows, and automate human-in-the-loop processes. I have productionized NLP capabilities such as summarization, clustering, semantic similarity, and sentiment analysis using PyTorch and modern MLOps practices with Docker, Kubernetes, and CI/CD.  
+My recent work focuses on agentic AI and multi-agent LLM workflows, utilizing tools such as AWS SageMaker, Bedrock, and LangChain to develop retrieval-augmented systems, evaluators, and autonomous agents that can analyze documents, reason over complex workflows, and automate human-in-the-loop processes. I have productionized NLP capabilities, including summarization, clustering, semantic similarity, and sentiment analysis, utilizing PyTorch and modern MLOps practices with Docker, Kubernetes, and CI/CD.  
 
 In applied ML and analytics, I have contributed to initiatives that reduced customer churn with XGBoost-based models, improved feedback analysis with NLP, and boosted performance with CNN/RNN architectures. In healthcare use cases, I have worked hands-on with large-scale datasets (50,000+ claims/records) to support anomaly and fraud detection, utilization risk modeling, and patient segmentation, always with a strong emphasis on data quality, governance, and interpretability.  
 
