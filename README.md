@@ -1,5 +1,5 @@
 
-<h1 align="center">Kiran Gandluri</h1>
+<h1 align="center">Hello! I'm Kiran :)</h1>
 <p align="center">
   If you’re looking for potential candidates with any of the below abilities, <em>please consider me as one.</em>
 </p>
