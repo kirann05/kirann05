@@ -1,96 +1,167 @@
 
-<h1 align="center">Hello! I'm Kiran :)</h1>
+<h1 align="center">Hi 👋 I'm Kiran Gandluri</h1>
+<h3 align="center">Software Development Engineer (AI) | AI Engineer | Distributed Systems & ML Platforms</h3>
+
 <p align="center">
-  If you’re looking for potential candidates with any of the below abilities, <em>please consider me as one.</em>
+Building scalable AI systems, data platforms, and intelligent backend services.
 </p>
 
+---
 
-AI/ML engineer and software engineer focused on agentic AI, with ~5 years of experience shipping production-grade ML and Generative AI systems across healthcare, insurance, and IT consulting, with a strong track record of turning research ideas into robust products on AWS.
+## 🚀 About Me
 
-## About me  
+💡 Software Development Engineer specializing in **AI-enabled systems, distributed architectures, and scalable data platforms**.
 
-An **AI/ML engineer** with a focus on LLMs, NLP, and MLOps, I specialize in building end-to-end intelligent systems—from data pipelines and model training to deployment, monitoring, and continuous optimization in production. Drawing on experience across healthcare, claims analytics, and enterprise IT, I design solutions that are not only technically strong but also compliant, reliable, and directly tied to business outcomes.  
+I currently work on **AI-driven financial analytics platforms** where I design microservices, distributed data pipelines, and machine learning inference systems that power real-time analytics and predictive intelligence.
 
-My recent work focuses on agentic AI and multi-agent LLM workflows, utilizing tools such as AWS SageMaker, Bedrock, and LangChain to develop retrieval-augmented systems, evaluators, and autonomous agents that can analyze documents, reason over complex workflows, and automate human-in-the-loop processes. I have productionized NLP capabilities, including summarization, clustering, semantic similarity, and sentiment analysis, utilizing PyTorch and modern MLOps practices with Docker, Kubernetes, and CI/CD.  
+I enjoy solving complex problems at the intersection of:
 
-In applied ML and analytics, I have contributed to initiatives that reduced customer churn with XGBoost-based models, improved feedback analysis with NLP, and boosted performance with CNN/RNN architectures. In healthcare use cases, I have worked hands-on with large-scale datasets (50,000+ claims/records) to support anomaly and fraud detection, utilization risk modeling, and patient segmentation, always with a strong emphasis on data quality, governance, and interpretability.  
+- **Artificial Intelligence**
+- **Distributed Systems**
+- **Cloud Infrastructure**
+- **Large-scale Data Engineering**
 
-As a **research-minded builder**, I contributed to an EMNLP 2025 publication and enjoy translating state-of-the-art ideas into testable, maintainable systems. At UMass Lowell, I helped build a patient education platform using Flask and PostgreSQL and applied multi-agent LLM and alignment concepts to reduce annotation cycle time by ~30%, demonstrating my ability to combine academic rigor with pragmatic engineering.  
-
-Beyond individual contributions, I have operated in Agile/Scrum environments, collaborating closely with product, data, and infra teams, while mentoring engineers and interns on topics like MLOps, secure deployments, and delivery best practices. I enjoy owning problems end-to-end, from clarifying requirements with stakeholders to instrumenting metrics, writing tests, and iterating quickly based on real-world usage.  
-
-If you are hiring for **AI/ML engineer** or **software engineer (agentic AI)** roles and need someone who can design architectures, write clean production code, and push GenAI features from prototype to production, please consider me as a candidate.  
+I also contributed to research in **Conversational AI**, resulting in an **EMNLP 2025 publication**.
 
 ---
 
-##  Generative AI / LLM / NLP Engineer  
+## 🧠 What I Do
 
-- AIML Engineer (SME) with ~5 years of experience designing and shipping enterprise ML + GenAI solutions across healthcare, insurance, and IT consulting, including AWS-native implementations with SageMaker, Bedrock, and LangChain.  
-- Built and productionized NLP workflows (summarization, clustering, semantic similarity, sentiment) using PyTorch, and operationalized them with Docker, Kubernetes, and CI/CD in compliance-heavy environments.  
-- Hands-on experience with RAG pipelines, evaluators, and multi-agent workflows for document-heavy, high-stakes domains (claims, clinical text, feedback).  
+⚙️ Build **production-grade AI systems**
 
-**Target roles:** AI/ML Engineer, Software Engineer (Agentic AI).  
+📊 Design **large-scale data pipelines**
 
----
+🧩 Develop **microservices architectures**
 
-##  Applied ML / Data Science / Analytics  
+🤖 Deploy **machine learning models into production**
 
-- Delivered measurable outcomes such as reducing churn with XGBoost-based models, improving feedback analysis efficiency with NLP sentiment systems, and boosting model performance with CNN/RNN architectures.  
-- Worked with large-scale healthcare datasets (50,000+ claims/records) to support claims anomaly/fraud detection, utilization risk modeling, and patient segmentation workflows.  
-- Strong focus on data quality, governance, experimentation, and monitoring so models remain robust under real-world drift and evolving business rules.  
+☁️ Build **cloud-native distributed systems**
+
+📈 Create **real-time analytics platforms**
 
 ---
 
-##  Research + Product Builder  
+## 🛠️ Tech Stack
 
-- At UMass Lowell, helped build a patient education platform (Flask + PostgreSQL) and applied multi-agent LLM + alignment concepts to reduce annotation cycle time by ~30%.  
-- EMNLP 2025 author with experience translating research ideas into practical, testable systems and integrating them into existing products.  
-- Comfortable reading papers, designing ablation experiments, and turning prototypes into maintainable, well-documented services.  
+### 💻 Programming Languages
 
----
-
-##  Leadership / Collaboration  
-
-- Experience working in Agile/Scrum teams, collaborating with product, data, platform, and security stakeholders.  
-- Mentored engineers and interns on MLOps, secure deployments, and delivery best practices, including CI/CD, observability, and incident response patterns.  
-- Enjoy owning problems end-to-end: clarifying requirements, designing architecture, implementing features, writing tests, deploying, and iterating based on real usage feedback.  
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-##  What I'm focusing on now  
+### 🤖 AI / Machine Learning
 
-- Building **agentic AI** systems that chain tools, reasoning steps, and retrieval to automate complex workflows end-to-end.  
-- Hardening GenAI systems for production (guardrails, evaluation frameworks, observability, and safety in regulated environments).  
-- High-impact backend and data engineering that supports scalable AI (APIs, orchestration, data pipelines).  
-
----
-
-## Technology Stack  
-
-- **GenAI / Cloud:** AWS SageMaker, AWS Bedrock, LangChain, Redshift  
-- **Languages:** Python, SQL, Java, JavaScript/TypeScript  
-- **ML / DL:** NLP, LLM prompt engineering, XGBoost, PyTorch, TensorFlow  
-- **Data / Analytics:** Apache Spark, Power BI, PostgreSQL  
-- **DevOps / MLOps:** Docker, Kubernetes, CI/CD, Git  
-- **Web / Backend:** Flask  
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-DeepLearning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly%20Detection-AI-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📌 Selected Work  
+### 🧱 Backend & Distributed Systems
 
-- **Real-Time Fake News Detector (NLI + ML):** End-to-end system for real-time detection and analysis of fake news on social media using advanced NLI and ML techniques.  
-- **Cloud-Based 3-Tier Architecture:** Scalable 3-tier app (React.js, Express.js, MySQL) deployed on AWS, showcasing robust cloud-native design.  
-- **Healthcare & Claims Analytics:** ML solutions for fraud/anomaly detection, utilization risk, and patient segmentation at scale.  
-
-(See pinned repositories on this profile for more details.)  
+<p>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-Backend-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-Engineering-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🤝 Let's connect  
+### 📊 Data Engineering
 
-- ✉ Email: **saikirang1215@gmail.com**  
-- 🌐 Portfolio: **https://kirann05.github.io**  
-- 💻 GitHub: **https://github.com/kirann05**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/kiran-gandluri-31670327b/**  
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-DataEngineering-blue?style=for-the-badge"/>
+</p>
 
-If your team is hiring for **AI/ML Engineer** or **Software Engineer (Agentic AI)** and you need someone who can design architectures, write clean production code, and ship GenAI features end-to-end, let's connect.
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+---
+
+### 🔧 DevOps & MLOps
+
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 GPT-style Transformer Training
+Reproduced a GPT-style transformer architecture using **PyTorch**, optimized GPU training pipelines, and implemented attention optimizations.
+
+---
+
+### 📄 AI-Powered Document Intelligence Platform
+Built an intelligent document processing system using **OCR + LLM classification** to extract and structure financial documents automatically.
+
+---
+
+### 🎮 Twitch Recommender System
+Developed a **large-scale recommendation engine** using matrix factorization techniques and automated ETL pipelines.
+
+---
+
+### 📑 Document Classification System
+Implemented a **BERT-based NLP classifier** with a **Flask API for real-time inference**.
+
+---
+
+## 📚 Research
+
+🧾 **EMNLP 2025 Findings Publication**
+
+Built a **conversational AI healthcare system** leveraging LLMs and multi-agent architectures to improve patient education and reduce annotation cycles.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kirann05&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirann05&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: **kirangandluri03@gmail.com**
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/kiran-gandluri-31670327b/
+
+💻 GitHub  
+https://github.com/kirann05
+
+---
+
+⭐ If you're hiring for **Software Development Engineer (AI)**, **AI Engineer**, or **Machine Learning Engineer** roles and need someone who can design scalable systems, build intelligent applications, and ship production-grade AI solutions — I'd love to connect.
