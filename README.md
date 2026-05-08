@@ -1,43 +1,46 @@
-
-<h1 align="center">Hi 👋 I'm Kiran Gandluri</h1>
-<h3 align="center">Software Development Engineer (AI) | AI Engineer | Distributed Systems & ML Platforms</h3>
+<h1 align="center">Hi 👋 I'm Sai Kiran Gandluri</h1>
+<h3 align="center">AI/ML Engineer | Healthcare AI | LLMs & Distributed Systems | Cloud-Native ML Platforms</h3>
 
 <p align="center">
-Building scalable AI systems, data platforms, and intelligent backend services.
+Building scalable AI systems, healthcare data platforms, and intelligent ML services.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 Software Development Engineer specializing in **AI-enabled systems, distributed architectures, and scalable data platforms**.
+💡 AI/ML Engineer specializing in **healthcare AI, LLM-based systems, and cloud-native machine learning platforms**.
 
-I currently work on **AI-driven financial analytics platforms** where I design microservices, distributed data pipelines, and machine learning inference systems that power real-time analytics and predictive intelligence.
+I currently work at **Anthem Health** as an AI/ML Engineer (SME), where I design and deploy enterprise-scale ML and Generative AI solutions on **AWS SageMaker, Bedrock, and LangChain**, supporting clinical workflows, fraud detection, and patient engagement systems for 50,000+ patient records under HIPAA compliance.
+
+Previously, I worked at **Hexaware Technologies** as an AI/ML Engineer, where I built predictive models, NLP systems, deep learning solutions (CNNs, RNNs), and deployed scalable ML pipelines on AWS for clients across banking, insurance, and healthcare.
 
 I enjoy solving complex problems at the intersection of:
 
-- **Artificial Intelligence**
-- **Distributed Systems**
-- **Cloud Infrastructure**
-- **Large-scale Data Engineering**
+- **Artificial Intelligence & LLMs**
+- **Healthcare Data & Clinical Workflows**
+- **Distributed Systems & MLOps**
+- **Cloud Infrastructure (AWS, Azure)**
 
-I also contributed to research in **Conversational AI**, resulting in an **EMNLP 2025 publication**.
+I also contributed to research in **Conversational AI for healthcare**, resulting in an **EMNLP 2025 Findings publication**.
 
 ---
 
 ## 🧠 What I Do
 
-⚙️ Build **production-grade AI systems**
+⚙️ Build **production-grade AI systems** for healthcare and enterprise applications
 
-📊 Design **large-scale data pipelines**
+📊 Design **large-scale data pipelines** for clinical and claims data
 
-🧩 Develop **microservices architectures**
+🧩 Develop **LLM-based workflows** using LangChain, RAG, and multi-agent frameworks
 
-🤖 Deploy **machine learning models into production**
+🤖 Deploy **machine learning models into production** on AWS SageMaker
 
-☁️ Build **cloud-native distributed systems**
+☁️ Build **HIPAA-compliant cloud-native systems**
 
-📈 Create **real-time analytics platforms**
+📈 Create **NLP pipelines** for clinical documentation analysis
+
+🎓 Mentor **junior engineers and student interns**
 
 ---
 
@@ -47,8 +50,9 @@ I also contributed to research in **Conversational AI**, resulting in an **EMNLP
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -59,9 +63,21 @@ I also contributed to research in **Conversational AI**, resulting in an **EMNLP
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3A3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-DeepLearning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anomaly%20Detection-AI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+### 🏥 Healthcare & Research AI
+
+<p>
+<img src="https://img.shields.io/badge/HIPAA%20Compliance-Healthcare-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clinical%20NLP-Research-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-LLM-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-AI-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -69,21 +85,10 @@ I also contributed to research in **Conversational AI**, resulting in an **EMNLP
 ### 🧱 Backend & Distributed Systems
 
 <p>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-Backend-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microservices-Architecture-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-Engineering-orange?style=for-the-badge"/>
-</p>
-
----
-
-### 📊 Data Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL%20Pipelines-DataEngineering-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -91,11 +96,12 @@ I also contributed to research in **Conversational AI**, resulting in an **EMNLP
 ### ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 ---
@@ -103,40 +109,41 @@ I also contributed to research in **Conversational AI**, resulting in an **EMNLP
 ### 🔧 DevOps & MLOps
 
 <p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-Engineering-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 GPT-style Transformer Training
-Reproduced a GPT-style transformer architecture using **PyTorch**, optimized GPU training pipelines, and implemented attention optimizations.
+### 🏥 NoteAid-Chatbot — Patient Education AI (EMNLP 2025)
+Built a **multi-agent LLM system** using **LLaMA 3.2-3B with LoRA + PPO reinforcement learning** to help patients understand hospital discharge notes. Outperformed non-expert humans in patient comprehension on a Turing test.
 
 ---
 
-### 📄 AI-Powered Document Intelligence Platform
-Built an intelligent document processing system using **OCR + LLM classification** to extract and structure financial documents automatically.
+### 📰 Real-time Fake News Detection
+Developed an NLP system using **BERT + SBERT embeddings** to detect misinformation on social media with **91.1% accuracy**. Built an interactive Streamlit dashboard for real-time classification.
 
 ---
 
-### 🎮 Twitch Recommender System
-Developed a **large-scale recommendation engine** using matrix factorization techniques and automated ETL pipelines.
+### 🎭 Deepfake Detection (CNN-LSTM)
+Built a deepfake detection model using **CNN-LSTM architecture** with frame-level analysis, achieving **85% accuracy** by detecting subtle temporal irregularities in facial features.
 
 ---
 
-### 📑 Document Classification System
-Implemented a **BERT-based NLP classifier** with a **Flask API for real-time inference**.
+### ☁️ Cloud-Based 3-Tier Architecture
+Engineered a scalable system on **AWS** (React + Node.js + MySQL), reduced latency by 30% and improved query performance by 40%. Automated CI/CD with Docker and AWS CodePipeline.
 
 ---
 
 ## 📚 Research
 
-🧾 **EMNLP 2025 Findings Publication**
+🧾 **EMNLP 2025 Findings Publication** — *"Chatbot To Help Patients Understand Their Health"*
 
-Built a **conversational AI healthcare system** leveraging LLMs and multi-agent architectures to improve patient education and reduce annotation cycles.
+Built a **conversational AI healthcare system** leveraging LLMs, multi-agent architectures, and reinforcement learning to improve patient education. The chatbot outperformed non-expert human educators in comprehension scores.
 
 ---
 
@@ -154,7 +161,7 @@ Built a **conversational AI healthcare system** leveraging LLMs and multi-agent 
 
 ## 🌍 Connect With Me
 
-📧 Email: **kirangandluri03@gmail.com**
+📧 Email: **saikirang1215@gmail.com**
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/kiran-gandluri-31670327b/
@@ -162,6 +169,9 @@ https://www.linkedin.com/in/kiran-gandluri-31670327b/
 💻 GitHub  
 https://github.com/kirann05
 
+🌐 Portfolio  
+https://kirann05.github.io/Portfolio/
+
 ---
 
-⭐ If you're hiring for **Software Development Engineer (AI)**, **AI Engineer**, or **Machine Learning Engineer** roles and need someone who can design scalable systems, build intelligent applications, and ship production-grade AI solutions — I'd love to connect.
+⭐ If you're hiring for **AI/ML Engineer**, **Healthcare AI Engineer**, **Senior SDE (AI)**, or **Machine Learning Engineer** roles and need someone who can design scalable AI systems, build production-grade healthcare ML pipelines, and ship intelligent applications — I'd love to connect.
