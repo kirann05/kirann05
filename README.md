@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sai Kiran Gandluri</h1>
+<h1 align="center">Hi, I'm Sai Kiran Gandluri</h1>
 <h3 align="center">AI/ML Engineer | Healthcare AI | LLMs & Distributed Systems | Cloud-Native ML Platforms</h3>
 
 <p align="center">
