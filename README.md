@@ -169,9 +169,6 @@ https://www.linkedin.com/in/kiran-gandluri-31670327b/
 💻 GitHub  
 https://github.com/kirann05
 
-🌐 Portfolio  
-https://kirann05.github.io/Portfolio/
-
 ---
 
-⭐ If you're hiring for **AI/ML Engineer**, **Healthcare AI Engineer**, **Senior SDE (AI)**, or **Machine Learning Engineer** roles and need someone who can design scalable AI systems, build production-grade healthcare ML pipelines, and ship intelligent applications — I'd love to connect.
+⭐ If you're hiring for **AI/ML Engineer**, **Healthcare AI Engineer**, **SDE (AI)** roles and need someone who can design scalable AI systems, build production-grade healthcare ML pipelines, and ship intelligent applications — I'd love to connect.
