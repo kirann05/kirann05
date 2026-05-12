@@ -147,18 +147,6 @@ Built a **conversational AI healthcare system** leveraging LLMs, multi-agent arc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirann05&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirann05&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 📧 Email: **saikirang1215@gmail.com**
