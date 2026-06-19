@@ -22,7 +22,7 @@ Building scalable, cloud-native applications and AI-powered services across the 
 
 ## 🚀 About Me
 
-Software Engineer with **4.5+ years** designing, building, and deploying scalable, cloud-native applications in **Python, Java, and TypeScript**. I work across the full stack: intuitive React/Node front ends, robust Spring Boot/Python back ends, and AI-powered services built on **LLMs, agentic frameworks, and AWS Bedrock**.
+Software Engineer with **4+ years** designing, building, and deploying scalable, cloud-native applications in **Python, Java, and TypeScript**. I work across the full stack: intuitive React/Node front ends, robust Spring Boot/Python back ends, and AI-powered services built on **LLMs, agentic frameworks, and AWS Bedrock**.
 
 Strong foundation in **system architecture, fault tolerance, and state management**, with hands-on depth in **RESTful API design, containerized microservices, and DevOps automation** across AWS, Azure, GCP, and OCI.
 
