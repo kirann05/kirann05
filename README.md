@@ -145,7 +145,7 @@ Currently a **Software Engineer I (Gen AI)** at **Morgan Stanley**, building LLM
 
 ## 🌍 Let's Connect
 
-📧 **kirangandluri033@gmail.com**  
+📧 **kiranga512@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-gandluri-31670327b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/kirann05)
 
 > Open to **Full-Stack Engineer** and **SDE (AI)** roles — let's build something scalable.
