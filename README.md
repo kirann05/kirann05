@@ -10,7 +10,7 @@ I build Java/Spring Boot services, React/TypeScript products, and applied AI sys
 
 | Project | Focus | Evidence |
 | --- | --- | --- |
-| NowServing | Real-time queues, Redis, WebSockets, routing | [Walkthrough](https://youtu.be/WHatLISNyA4); source is private |
+| [NowServing](https://github.com/kirann05/nowserving-queue-platform) | Real-time queues, Redis, WebSockets, routing | [Walkthrough](https://youtu.be/WHatLISNyA4), architecture, backend tests |
 | [FitLive](https://github.com/kirann05/fitlive-fitness-planning-platform) | Fitness planning, signed services, versioned writes | Architecture, tests, and release-status notes |
 | [NoteAid](https://github.com/kirann05/noteaid-healthcare-llm) | Patient education and model evaluation | Published paper; public annotation interface |
 | [GPT-2 Systems](https://github.com/kirann05/gpt2-systems-training) | PyTorch, C++, token shards, data loading | Source implementation; comparative benchmarks pending |
